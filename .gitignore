@@ -1,0 +1,78 @@
+# Fichiers système
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Fichiers d'éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dépendances (si utilisation de npm/yarn)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+.cache/
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Fichiers compilés (si utilisation de preprocesseurs)
+*.css.map
+*.sass-cache/
+.sass-cache/
+
+# Environnement local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Fichiers de build (si utilisation d'outils de build)
+dist/
+build/
+.parcel-cache/
+
+# Fichiers de documentation générés
+docs/
+
+# Fichiers de test
+coverage/
+.nyc_output/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Fichiers temporaires Windows
+Desktop.ini
+
+# Fichiers temporaires macOS
+.AppleDouble
+.LSOverride
+
+# Dossier uploads temporaires (si ajout futur)
+uploads/temp/
+
+# Fichiers de configuration locale
+config.local.js
+config.local.json
